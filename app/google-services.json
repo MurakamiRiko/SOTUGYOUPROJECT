@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "801914174472",
+    "firebase_url": "https://cardvisitproject.firebaseio.com",
+    "project_id": "cardvisitproject",
+    "storage_bucket": "cardvisitproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801914174472:android:c2203392c14bc85f07e5bd",
+        "android_client_info": {
+          "package_name": "com.example.a1709015.cardvisitmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801914174472-kt24jq0se5r8ppinbn62agpsk9leroa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwpJ1vA-jV1iD5jfUwod91vrZVfxHkk7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801914174472-kt24jq0se5r8ppinbn62agpsk9leroa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801914174472:android:11a4b232376fe11b07e5bd",
+        "android_client_info": {
+          "package_name": "com.example.eternity.cardvisitproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801914174472-kt24jq0se5r8ppinbn62agpsk9leroa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwpJ1vA-jV1iD5jfUwod91vrZVfxHkk7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801914174472-kt24jq0se5r8ppinbn62agpsk9leroa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
